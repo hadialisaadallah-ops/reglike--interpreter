@@ -1,0 +1,4 @@
+Use run-rglkpy for reglikepy.py
+Use run-rglkexe for ReglikeInst.zip
+Extract the stuff from the zip and when you use it Select your .rglk file and click open always in run-rglkexe
+If you use the python version do the same but with reglikepy.py
